@@ -8,10 +8,8 @@
     <div class="input-group">
      <i class="fas fa-plus fa-2x" style="padding-right:25px;color:rgb(130, 128, 122);"></i>
      <input type='text' class="inputfield" placeholder="Type your task..."  required v-on:keyup="show=true" v-on:keyup.enter="addTodo" v-model="text"/>
-      <!-- <datetime class="dateborder" style="margin-right:0px;" format="YYYY-MM-DD h:i:s" v-model='dob' ></datetime> -->
-      
-      <datetime v-model="dob"></datetime>
-      
+    <datetime class="dateborder" style="margin-right:0px;" format="YYYY-MM-DD h:i:s" v-model='dob' ></datetime>
+
       <button   v-if="show" type="button" class="btn btn-danger btn-sm"  v-on:click="addTodo">Add Task</button>
       
    </div>   </div>
