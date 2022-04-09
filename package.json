@@ -15,7 +15,7 @@
     "bootstrap": "^4.0.0-alpha.6",
     "core-js": "^2.6.5",
     "luxon": "^1.17.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react-bootstrap": "^0.32.1",
     "vue": "^2.6.10",
     "vue-bootstrap-datetimepicker": "^5.0.1",
