@@ -14,7 +14,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "bootstrap": "^4.0.0-alpha.6",
     "core-js": "^2.6.5",
-    "luxon": "^1.17.2",
+    "luxon": "^2.5.2",
     "moment": "^2.24.0",
     "react-bootstrap": "^0.32.1",
     "vue": "^2.6.10",
